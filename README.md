@@ -1,4 +1,4 @@
-# Marfrig Site Institucional
+# corporate-showcase-website
 
 Site institucional da Marfrig desenvolvido com Gulp e SCSS.
 
@@ -26,8 +26,8 @@ Site institucional desenvolvido para a Marfrig, utilizando Gulp como build tool 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/marfrig-site-institutional.git
-cd marfrig-site-institutional
+git clone https://github.com/SEU-USUARIO/corporate-showcase-website.git
+cd corporate-showcase-website
 ```
 
 2. Instale as dependências:
