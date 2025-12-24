@@ -1,32 +1,28 @@
-# corporate-showcase-website
+# Corporate Showcase Website
 
-Site institucional da Marfrig desenvolvido com Gulp e SCSS.
+Site institucional corporativo moderno
 
 ## 📋 Sobre o Projeto
 
-Site institucional desenvolvido para a Marfrig, utilizando Gulp como build tool e SCSS para estilização.
+Site institucional desenvolvido com React, Gulp e SCSS que apresenta informações corporativas de forma elegante e profissional. Inclui seções sobre a empresa, produtos, equipe e contato, com design responsivo e otimizado para performance.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Gulp** - Build tool e task runner
-- **SCSS** - Pré-processador CSS
 - **JavaScript** - Linguagem de programação
-- **Bower** - Gerenciador de pacotes frontend
+- **React** - Biblioteca JavaScript para construção de interfaces
 
 ## 🚀 Como Configurar
 
 ### Pré-requisitos
 
-- Node.js >= 14.x
-- Gulp CLI
-- Bower
+- Node.js >= 16.x
 - Yarn ou npm
 
 ### Instalação
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/corporate-showcase-website.git
+git clone https://github.com/robleds/corporate-showcase-website.git
 cd corporate-showcase-website
 ```
 
@@ -37,41 +33,20 @@ yarn install
 npm install
 ```
 
-3. Instale as dependências do Bower:
-```bash
-bower install
-```
-
 ## 🏃 Como Executar
 
 ### Desenvolvimento
 ```bash
-gulp
+yarn dev
 # ou
-yarn start
+npm run dev
 ```
 
 ### Build de Produção
 ```bash
-gulp build
-# ou
 yarn build
-```
-
-## 📝 Scripts Disponíveis
-
-- `gulp` - Inicia o servidor de desenvolvimento
-- `gulp build` - Cria build de produção
-- `gulp watch` - Observa mudanças nos arquivos
-
-## 📁 Estrutura do Projeto
-
-```
-src/
-├── js/           # Arquivos JavaScript
-├── scss/         # Arquivos SCSS
-└── ...
-build/            # Arquivos compilados
+# ou
+npm run build
 ```
 
 ## 📄 Licença
