@@ -1,7 +1,7 @@
 {
   "name": "corporate-showcase-website",
   "version": "1.0.0",
-  "description": "Landingpage Bassi.Marfrig. Coded by Farmazon Brasil",
+  "description": "Corporate showcase website - Institutional landing page",
   "private": true,
   "main": "src/index.js",
   "dependencies": {
