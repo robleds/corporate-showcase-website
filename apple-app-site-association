@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+          "appID": "T6WK87V5G8.fzn.marfrig.bassi.client",
+          "paths": [ "*" ]
+      }
+    ]
+  }
+}

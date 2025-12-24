@@ -1,0 +1,25 @@
+{
+  "name": "Bassi-Marfrig-Website",
+  "homepage": "https://www.marfrig.app",
+  "authors": [
+    "farmazon-brasil"
+  ],
+  "description": "Landingpage Bassi.Marfrig. Coded by Farmazon Brasil",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "license": "Creative License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
